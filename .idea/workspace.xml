@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ab044ba-cd74-4b4b-888a-38e767fcf505" name="Changes" comment="git commit" />
+    <list default="true" id="2ab044ba-cd74-4b4b-888a-38e767fcf505" name="Changes" comment="git commit">
+      <change afterPath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/.idea/shelf/Uncommitted_changes_before_Update_at_29_10_2024__21_34__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +16,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -34,20 +37,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.1457018&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.splitter.proportion": "0.1457018",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,8 +77,8 @@
       <workItem from="1730171879766" duration="303000" />
       <workItem from="1730172188559" duration="184000" />
       <workItem from="1730197704090" duration="4309000" />
-      <workItem from="1730203379895" duration="3534000" />
-      <workItem from="1730212295564" duration="145000" />
+      <workItem from="1730203379895" duration="3954000" />
+      <workItem from="1730211271270" duration="1809000" />
     </task>
     <task id="LOCAL-00001" summary="git commit">
       <option name="closed" value="true" />
@@ -91,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730210389770</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="git commit">
+      <option name="closed" value="true" />
+      <created>1730211015766</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730211015766</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
