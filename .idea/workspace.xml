@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ab044ba-cd74-4b4b-888a-38e767fcf505" name="Changes" comment="git commit">
-      <change beforePath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/css/2.1.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/css/2.1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="2ab044ba-cd74-4b4b-888a-38e767fcf505" name="Changes" comment="git commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +73,7 @@
       <workItem from="1730172188559" duration="184000" />
       <workItem from="1730197704090" duration="4309000" />
       <workItem from="1730203379895" duration="3534000" />
+      <workItem from="1730212295564" duration="145000" />
     </task>
     <task id="LOCAL-00001" summary="git commit">
       <option name="closed" value="true" />
