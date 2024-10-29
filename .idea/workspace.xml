@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ab044ba-cd74-4b4b-888a-38e767fcf505" name="Changes" comment="git commit" />
+    <list default="true" id="2ab044ba-cd74-4b4b-888a-38e767fcf505" name="Changes" comment="git commit">
+      <change beforePath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/css/2.1.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/css/2.1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,18 +17,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SergeyKucenko"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SergeyKucenko&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SergeyKucenko/learn-HTMLAcademy-BarberShop.git",
-    "accountId": "d75e0a39-edaa-4362-b02d-fe0c90176cd3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SergeyKucenko/learn-HTMLAcademy-BarberShop.git&quot;,
+    &quot;accountId&quot;: &quot;d75e0a39-edaa-4362-b02d-fe0c90176cd3&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -71,7 +74,8 @@
       <workItem from="1730167970090" duration="7000" />
       <workItem from="1730171879766" duration="303000" />
       <workItem from="1730172188559" duration="184000" />
-      <workItem from="1730197704090" duration="3058000" />
+      <workItem from="1730197704090" duration="4309000" />
+      <workItem from="1730203379895" duration="3534000" />
     </task>
     <task id="LOCAL-00001" summary="git commit">
       <option name="closed" value="true" />
@@ -81,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730201063651</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="git commit">
+      <option name="closed" value="true" />
+      <created>1730210389770</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730210389770</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
