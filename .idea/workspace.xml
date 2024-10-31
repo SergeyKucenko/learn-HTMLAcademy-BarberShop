@@ -7,12 +7,6 @@
     <list default="true" id="2ab044ba-cd74-4b4b-888a-38e767fcf505" name="Changes" comment="git commit">
       <change beforePath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/pages/catlog.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/pages/catlog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/pages/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/pages/contacts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/pages/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/pages/info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/pages/lk.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/pages/lk.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/pages/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/pages/news.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/pages/price.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/pages/price.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +82,7 @@
       <workItem from="1730273102072" duration="2175000" />
       <workItem from="1730277962826" duration="4435000" />
       <workItem from="1730282537934" duration="2477000" />
+      <workItem from="1730385685490" duration="2326000" />
     </task>
     <task id="LOCAL-00001" summary="git commit">
       <option name="closed" value="true" />
