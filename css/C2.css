@@ -52,7 +52,7 @@ body{
 
 .site-navigation a,
 .user-navigation a {
-    color: white;
+    color: inherit;
 }
 
 
@@ -87,6 +87,10 @@ text-align: center;
     list-style: none;
 }
 
+.news-item time {
+    text-transform: none;
+}
+
 
 
 
@@ -104,12 +108,28 @@ text-align: center;
 }
 
 .gallery-content{
-
+    background-color: #cccccc;
+    border: 7px solid #ffffff;
 }
 
 .button{
+    font: inherit;
 
+    text-align: center;
+    color: white;
+    vertical-align: middle;
+    text-transform: uppercase;
+
+    background-color: black;
+    border: none;
 }
+
+.button:hover,
+.button:focus,
+.button:active {
+    background-color: #663d15;
+}
+
 
 .button-gallery-back{
 
@@ -123,6 +143,15 @@ text-align: center;
 
 }
 
+
+.index-columns{
+color: black;
+
+    background-color: #f8f5f2;
+    background-image: url("../img/g.jpg");
+    background-position: 0 0;
+    background-repeat: repeat;
+}
 
 .visually-hidden{
     position: absolute;
