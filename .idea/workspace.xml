@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ab044ba-cd74-4b4b-888a-38e767fcf505" name="Changes" comment="git commit">
-      <change beforePath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/css/C2.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/css/C2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Общие файлы  - YANDEX/GitHub/learn-HTMLAcademy-BarberShop/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="2ab044ba-cd74-4b4b-888a-38e767fcf505" name="Changes" comment="git commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +88,7 @@
       <workItem from="1730879259315" duration="18505000" />
       <workItem from="1730949765319" duration="710000" />
       <workItem from="1730964695883" duration="12000" />
-      <workItem from="1730977120336" duration="4486000" />
+      <workItem from="1730977120336" duration="4511000" />
     </task>
     <task id="LOCAL-00001" summary="git commit">
       <option name="closed" value="true" />
@@ -126,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730277802095</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="git commit">
+      <option name="closed" value="true" />
+      <created>1730987191238</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730987191238</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
