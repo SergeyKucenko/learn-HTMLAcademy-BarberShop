@@ -31,9 +31,10 @@
     </nav>
 
     <script>
-        var link=document.querySelector(".main-header-logo");
+        var link=document.querySelector(".user-navigation");
 
-        link.addEventListener("click",function(){
+        link.addEventListener("click",function(evt){
+            evt.preventDefault(evt);
             console.log("TEST CONSOLEE !!!! ");
         });
         </script>
